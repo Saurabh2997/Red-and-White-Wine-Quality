@@ -3,5 +3,6 @@ Project is based on to determine the Quality of the Wine Red as well as White. L
 
 Project Member:
 Saurabh Yadav
-Michelle 
-Jessie
+Michelle Su
+Chieh-Hsin Wu
+
